@@ -4,5 +4,5 @@ The bracelet shimmers, and for a brief moment, the world around you fades. The s
 Ahead of you, in the dim light, you notice the pedestal with a small, intricately carved box resting on it.
 
 What do you do? 
-- [Touch the box]
+- [The Box's Secret](the_box_secret.md)
 - [Step back and observe](intro.md)
