@@ -5,5 +5,5 @@ Ava picks up a silver bracelet with a glowing charm. The moment she clasps it on
 You approach the shelf filled with shimmering trinkets. One silver bracelet catches your eye.  
 What will you do?  
 
-- (Choice #1 will be added once new markdown has been added)
+- [Choose the silver bracelet](silver_bracelet.md)
 - [Walk away from the shelf](intro.md)
