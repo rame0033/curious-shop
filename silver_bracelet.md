@@ -5,4 +5,4 @@ Ahead of you, in the dim light, you notice the pedestal with a small, intricatel
 
 What do you do? 
 - [Touch the box]
-- [Step back and observe] 
+- [Step back and observe](intro.md)
