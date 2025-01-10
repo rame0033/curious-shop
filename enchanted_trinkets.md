@@ -6,4 +6,4 @@ You approach the shelf filled with shimmering trinkets. One silver bracelet catc
 What will you do?  
 
 - (Choice #1 will be added once new markdown has been added)
--  [Walk away from the shelf](intro.md)
+- [Walk away from the shelf](intro.md)
