@@ -4,4 +4,5 @@ You open the box and find a glowing stone inside. As your fingers touch it, the 
 
 What will you do next?
 
+- [Call out the shopkeeper](call_out.md)
 - [Step back and observe](intro.md)
